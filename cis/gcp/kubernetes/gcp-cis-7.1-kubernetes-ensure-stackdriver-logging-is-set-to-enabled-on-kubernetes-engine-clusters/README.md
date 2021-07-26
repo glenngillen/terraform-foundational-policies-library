@@ -1,4 +1,4 @@
-CIS 7.1: Ensure Stackdriver Logging is set to Enabled on Kubernetes Engine Clusters
+# CIS 7.1: Ensure Stackdriver Logging is set to Enabled on Kubernetes Engine Clusters
 
 <a href="https://lab.gln.io/policy?repo=glenngillen/foundational-policies-library?path=cis/gcp/kubernetes/gcp-cis-7.1-kubernetes-ensure-stackdriver-logging-is-set-to-enabled-on-kubernetes-engine-clusters"><img src="https://lab.gln.io/terraform.deploy.svg?1" height="45" width="129"/></a>
 
